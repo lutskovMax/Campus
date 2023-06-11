@@ -1,5 +1,5 @@
 {
-  "homepage":'https://lutskovmax.github.io/Campus/'
+  "homepage":'https://lutskovmax.github.io/Campus/',
   "name": "nuxt-app",
   "private": true,
   "scripts": {
