@@ -12,4 +12,9 @@ export default defineNuxtConfig({
       'process.env.DEBUG': false,
     },
   },
+    ssr: false, //When false
+  target: "static",
+    app: {
+      baseURL: "/Campus/"
+  }
 })
