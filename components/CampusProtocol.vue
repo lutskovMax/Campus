@@ -47,7 +47,7 @@
       </v-col>
     </v-row>
 
-    <v-row class="px-10 py-2">
+    <v-row class="px-4 py-2">
       <v-col
         cols="auto"
         class="d-none d-lg-flex py-0 px-0 align-center calendar"

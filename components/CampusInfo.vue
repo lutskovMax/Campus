@@ -10,7 +10,6 @@
     <v-row class="px-2 py-xs-4 d-flex align-center justify-center">
       <v-col cols="12" sm="6" class="text-center mx-auto mt-4">
         <div class="w-full sm:w-1/2 rounded-lg py-2" style="background: #DFDFDF;">
-          <!-- Ваш вміст блоку -->
           <h4 class="mb-2 opc-5 fz-18">Макс. на пользователя</h4>
           <span class="fz-18 font-weight-medium">300000 EDU = 45,8429 BNB (=14294 USD)</span>
         </div>
