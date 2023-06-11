@@ -21,6 +21,3 @@
   </v-container>
 </template>
 
-<style lang="scss">
-
-</style>
