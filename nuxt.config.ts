@@ -1,8 +1,4 @@
-export default {
-  mode: 'static',
-  router: {
-     base: '/Campus/'
-  },
+export default defineNuxtConfig({
   devtools: { enabled: true },
   css: [
     "~/assets/style/main.scss",
@@ -17,4 +13,4 @@ export default {
     },
   },
   app: {baseURL: '/Campus/'},
-}
+})
